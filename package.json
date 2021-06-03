@@ -1,0 +1,17 @@
+{
+  "name": "npm-area-perimeter-pack",
+  "version": "1.0.5",
+  "description": "Area Perimeter Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "npm-area-perimeter",
+    "web",
+    "javascript"
+  ],
+  "author": "Aryan Garg",
+  "license": "ISC"
+}
